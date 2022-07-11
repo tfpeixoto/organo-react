@@ -1,0 +1,32 @@
+.colaborador{
+  width: 280px;
+}
+
+.colaborador .cabecalho{
+  background: #f2f2f2;
+  border-radius: 10px 10px 0 0;
+}
+
+.colaborador .cabecalho img{
+  border-radius: 100%;
+  bottom: -50px;
+  position: relative;
+  width: 100px;
+}
+
+.colaborador .rodape{
+  background: white;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.08);
+  border-radius: 0 0 10px 10px;
+  padding: 90px 0 40px 0;
+}
+
+.colaborador .rodape h4{
+  color: green;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.colaborador .rodape h5 {
+
+}

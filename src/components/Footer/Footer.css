@@ -1,0 +1,39 @@
+.footer{
+  background: url(../../../public/images/fundo.png) no-repeat;
+  background-color: #6278F7;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 32px;
+}
+
+.footer-social ul{
+  display: inline-flex;
+  justify-content: center;
+}
+
+.footer-social ul li{
+  list-style: none;
+}
+
+.footer-social ul li a{
+  color: #fff;
+  padding: 10px;
+}
+
+.footer-marca{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-copy{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-copy p {
+  margin: 0;
+  padding: 0;
+}
